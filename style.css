@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 7em;
+}
+.body-container{
+    
+
+ background: white;
+
+
+}
+
+
+.container-fluid{
+   background: lightblue;
+}
+
+.nav-link{             
+
+    font-variant: small-caps;
+
+}
+
+
+
+
+.navbar-nav li:hover{
+    transform: scale(2);
+    transition: all 3s;
+}
+
+.fila_prueba{
+    background-color: aliceblue;
+
+}
